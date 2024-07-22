@@ -1,0 +1,3 @@
+pytautogui
+easyocr
+keras-ocr
