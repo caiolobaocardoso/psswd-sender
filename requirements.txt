@@ -1,3 +1,4 @@
-easyocr
-keras-ocr
-pandas
+streamlit
+pytesseract
+pdf2image
+pillow
